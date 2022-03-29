@@ -1,0 +1,15 @@
+= Eddie Campbell
+:nofooter:
+
+== Documents
+* link:cv.html[CV]
+* link:2020-06-05_meta_pt_1.html["Meta pt 1"], Article, 5th June 2020
+
+== LinkedIn 
+_Links require logged in LinkedIn session to view:_
+
+* https://www.linkedin.com/in/edwinc[LinkedIn profile,window=_blank]
+* https://www.linkedin.com/pulse/perfect-gift-eddie-campbell/["A Perfect
+ Gift",window=_blank], Article, 15th May 2021
+* https://www.linkedin.com/pulse/unemployment-history-eddie-campbell/["UNemployment
+ History",window=_blank], Article, 9th February 2019

@@ -1,0 +1,12 @@
+version: '3'
+services:
+    site:
+        build: .
+        environment:
+            - VIRTUAL_HOST=eddiecampbell.uk,edwinek.uk
+            - LETSENCRYPT_HOST=eddiecampbell.uk
+            - LETSENCRYPT_EMAIL=ehdee.see@gmail.com
+networks:
+    default:
+        external:
+            name: nginx-proxy
