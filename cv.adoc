@@ -4,10 +4,10 @@ contact <edwin.a.campbell@gmail.com>
 
 link:index.html[[back]]
 
-I’m a lead engineer at FanDuel, where I work across Scrum teams responsible for
-user sign-up and KYC flows. Having transitioned to development from a fairly
-extensive test automation career I bring a grounded and quality-focused approach
-to what I do.
+I’m a principal engineer at FanDuel, where I work in the Engineering
+Productivity team. Having transitioned to development from a fairly extensive
+test automation career I bring a grounded and quality-focused approach to what I
+do.
 
 With a long time personal interest in Linux and networking, I am effective in
 modern cloud-based, containerised development environments and have strong
@@ -30,10 +30,10 @@ mentoring and information sharing into what I do.
 
 == Experience
 === FanDuel
-* *Lead Engineer* - _March 2020 - present_
+* *Principal Software Engineer* _March 2022 - present_
+* *Lead Software Engineer* - _March 2020 - March 2022_
 * *Senior Software Engineer* - _July 2018 - March 2020_
 * *Software Engineer* - _June 2017 - July 2018_
-- Lead Engineer within the _Account_ vertical.
 
 === Aquila Insight
 * *Automated Test Engineer* - _February 2016 - June 2017_
