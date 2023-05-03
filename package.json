@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "gh-pages": "^3.2.3"
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
