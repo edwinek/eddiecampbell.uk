@@ -1,9 +1,0 @@
-= Puzzle (beta)
-Eddie
-12th Sep 2023
-:source-highlighter: rouge
-:nofooter:
-
-link:index.html[[back]]
-
-image::puzzle.gif[The Puzzle QR code]
