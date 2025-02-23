@@ -2,7 +2,7 @@
 
 contact: <edwin.a.campbell@gmail.com>
 
-[[back]](index.html)
+[[back]](http://eddiecampbell.uk)
 
 I’m a principal engineer at FanDuel, where I work in the Engineering
 Productivity team. Having transitioned to development from a fairly extensive
